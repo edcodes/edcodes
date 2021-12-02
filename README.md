@@ -2,7 +2,7 @@
 - 👀 I’m interested in PHP / Python / Django
 - 🌱 I’m currently learning AWS / React
 - ?????
-- 📫 How to reach me edwinabramian@gmail.com
+- 📫 How to reach me ? email me.
 
 <!---
 edcodes/edcodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
